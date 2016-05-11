@@ -1,4 +1,4 @@
-module Either where
+module Either exposing (..)
 
 {-| A simple module providing an Either type.
 
